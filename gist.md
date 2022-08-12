@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Regex Tutorial: Email Validation
 
-Introductory paragraph (replace this with your text)
+Regex (aka regular expression) refers to a tool used by developers to verify against strings of characters (in this case, an email) for validation purposes. 
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+This tutorial will briefly go over the basic components of this email regex and how they each perform their own functions. 
 
 ## Table of Contents
 
